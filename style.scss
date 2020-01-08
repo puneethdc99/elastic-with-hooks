@@ -1,0 +1,14 @@
+@import "./reset.scss";
+
+.result {
+  border: 5px solid red;
+  display: grid;
+
+  &__index ListGroup {
+    width: 50%;
+  }
+
+  &__msg ListGroup {
+    width: 40%;
+  }
+}

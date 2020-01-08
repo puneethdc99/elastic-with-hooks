@@ -1,0 +1,11 @@
+.result {
+  display: grid !important;
+}
+
+.indexresult {
+  border: 1px solid red;
+}
+
+.msgresult {
+  border: 1px solid blue;
+}
